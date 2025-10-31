@@ -10,23 +10,95 @@ layout: center
 layout: center
 ---
 
-# Why is self-hosting so popular lately?
+# Why is self-hosting so popular lately? 🤔
 
 ---
 layout: full
 ---
 
-![Pirates!](https://thumbnail.pa-community.com/cb/c0/8f04e94a0a58fea1171ae83ab286/b383738887c00f9079c026ffc9384c2e.jpg)
+<center><img src="./img/pirate.jpg" width=90% height=90%></center>
 
 ---
+layout: full
+---
 
-# Easier than ever
+<center><img src="./img/captain_jack.jpg" width=70% height=70%></center>
+
+---
+layout: full
+---
+
+<center><img src="./img/sunken_ship.jpg" width=70% height=70%></center>
+  
+---
+layout: full
+---
+
+<center><img src="./img/tales.jpg" width=70% height=70%></center>
+
+---
+layout: full
+---
+
+<center><img src="./img/castle.jpg" width=40% height=40%></center>
+
+---
+layout: full
+---
+
+<center><img src="./img/hyperspace_mountain.jpeg" width=100% height=100%></center>
+
+---
+layout: full
+---
+
+<center><img src="./img/jules.jpg" width=40% height=40%></center>
+
+---
+layout: full
+---
+
+<center><img src="./img/tour_eiffel.jpg" width=40% height=40%></center>
+
+---
+layout: image
+image: ./img/technical-difficulties-please-stand-by.jpeg
+---
+
+<!-- ![Techical difficulties](./img/technical-difficulties-please-stand-by.jpeg) -->
+
+
+---
+layout: full
+---
+
+<!-- <center><img src="./img/pirate.jpg" width=90% height=90%></center> -->
+
+---
+layout: full
+---
+
+<!-- <center><img src="./img/pirate.jpg" width=90% height=90%></center> -->
+
+---
+layout: full
+---
+
+<!-- <center><img src="./img/pirate.jpg" width=90% height=90%></center> -->
+---
+layout: center
+---
+
+# Why is self-hosting so popular lately? 🤔
+---
+
+# Easier than ever 🤡
 
 <center><img src="https://yams.media/pics/logo.webp" width=50% height=50%></center>
 
 ---
 
-# Cheaper than ever
+# Cheaper than ever 🫰🏻
 
 <center><img src="./img/lenovo.jpg" width=70% height=70%></center>
 
@@ -42,12 +114,12 @@ layout: full
 
 <v-clicks>
 
-- Your legally bought and properly licensed backup copies of movies, series and music --> [YAMS.media](https://yams.media)
-- Your pictures --> [immich](https://immich.app/)
-- Your games --> [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en)
-- Your home automation center --> [Home Assistant](https://www.home-assistant.io/)
-- Your own applications and the self-hosting-friendly applications from others --> [Awesome Selfhosted web](https://awesome-selfhosted.net)
-- Anything!
+- 📽️ Your legally bought and properly licensed backup copies of movies, series and music --> [YAMS.media](https://yams.media)
+- 🤳🏻 Your pictures --> [immich](https://immich.app/)
+- 👾 Your games --> [Sunshine](https://app.lizardbyte.dev/Sunshine/?lng=en)
+- 🤖 Your home automation center --> [Home Assistant](https://www.home-assistant.io/)
+- 📲 Your own applications and the self-hosting-friendly applications from others --> [Awesome Selfhosted web](https://awesome-selfhosted.net)
+- 🌈 Anything!
 
 </v-clicks>
 
@@ -57,17 +129,17 @@ layout: full
 
 <v-clicks>
 
-1. A way of running the hosted applications
-2. A way of storing the data needed by the hosting applications
-3. A way of making your hosted applications available
-4. TIME
-5. Commitment. <center><img src="./img/cloud_services2.png" width=30% height=30%></center>
+1. A way of running 🏃‍♂️ hosted applications
+2. A way of storing 💾  the data needed by the hosting applications
+3. A way of connect with your hosted applications 🛜
+4. TIME 🕰️
+5. **Commitment** 💪🏻 <center><img src="./img/cloud_services2.png" width=30% height=30%></center>
 
 </v-clicks>
 
 --- 
 
-# A way of running the hosted applications
+# A way of running 🏃‍♂️ hosted applications
 
 <v-clicks>
 
@@ -80,7 +152,7 @@ layout: full
 
 --- 
 
-# A way of storing the data needed by the hosting applications
+# A way of storing 💾  the data needed by the hosting applications
 
 <v-clicks>
 
@@ -98,7 +170,7 @@ layout: full
 
 ---
 
-# A way of making your hosted applications available
+# A way of connect with your hosted applications 🛜
 
 <v-clicks>
 
@@ -116,7 +188,7 @@ layout: full
 
 --- 
 
-# Lessons learned
+# Lessons learned 📝
 
 <v-clicks>
 
@@ -132,5 +204,5 @@ layout: full
 layout: center
 ---
 
-# Thanks!
+# Thanks 🙏🏻 QAs ☝🏻 + share your own experiences 🤕! 
 
