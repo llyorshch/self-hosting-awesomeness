@@ -8,4 +8,6 @@ To start the slide show:
 
 Edit the [slides.md](./slides.md) to see the changes.
 
+Slides published in [Github pages](https://llyorshch.github.io/self-hosting-awesomeness)
+
 Made with [Slidev](https://sli.dev/).
